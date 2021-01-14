@@ -1,1 +1,1 @@
-"# pattern-examples" 
+# pattern-examples
